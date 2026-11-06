@@ -112,6 +112,6 @@ Hypothèse centrale : un adulte a besoin en moyenne de **2 100 kcal par jour** (
 
 ## Auteur
 
-[Prénom Nom] · [lien vers votre profil GitHub ou LinkedIn]
+Ahmed Moundji ZID · 
 
 Données : FAO (FAOSTAT). Projet pédagogique réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms.
